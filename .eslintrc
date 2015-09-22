@@ -1,0 +1,11 @@
+{
+  "env": {
+    "node": true,
+    "browser": false
+  },
+  "parser": "babel-eslint",
+  "rules": {
+    "quotes": 0,
+    "new-cap": 0
+  }
+}
